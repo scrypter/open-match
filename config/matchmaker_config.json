@@ -47,11 +47,11 @@
     },
     "defaultImages": {
         "evaluator": {
-            "name": "gcr.io/matchmaker-dev-201405/openmatch-evaluator",
+            "name": "gcr.io/openmatchdev/openmatch-evaluator",
             "tag": "dev"
         },
         "mmf": {
-            "name": "gcr.io/matchmaker-dev-201405/openmatch-mmf",
+            "name": "gcr.io/openmatchdev/openmatch-mmf",
             "tag": "py3"
         }
     },
